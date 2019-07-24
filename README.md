@@ -1,19 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and 
+was phaser whit [Phaser 3](https://github.com/photonstorm/phaser).
 
 ## Use to the Game BrickWild
 
 In the project directory, you can run:
 
-### `npm install
-### npm start`
+### npm install
+### npm start
 
-Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## And start the Game !
+click and use your mouse to throw the ball and bounce it in the game.<br>
 
 ### `npm run build`
 
