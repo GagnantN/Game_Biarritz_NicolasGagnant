@@ -1,0 +1,25 @@
+h2 {
+  letter-spacing: 0.3em;
+  font-size: 2em;
+}
+.navbar {
+  height: 8em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 4px;
+  background-color: orange;
+}
+.logo {
+  max-height: 3vh;
+}
+
+#navlink {
+  list-style: none;
+  flex-direction: column-reverse;
+}
+
+.phaserImage {
+  height: 32px;
+  margin: 5px;
+}
