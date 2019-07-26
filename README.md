@@ -28,3 +28,4 @@ The goal is to use the ball to destroy the bricks allowing to open new tabs with
 
 I used [phaser 3](https://phaser.io/) to create the video game, it is in the [game file](https://github.com/GagnantN/Game_Biarritz_NicolasGagnant/blob/master/src/Game.js).<br>
 I used [react](https://fr.reactjs.org/docs/getting-started.html) to create react and use GitHub for install git.<br>
+And I used [netlify](https://www.netlify.com/) for deploy to website.<br>
